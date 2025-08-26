@@ -1,2 +1,4 @@
 # FirstAssignment
-GitHub repository serves as a central hub for all project files, including code, documentation, images, and any other associated assets
+Name: Hrushitha Goud Tigulla
+Student ID: 801419091
+email ID: htigulla@charlotte.edu
